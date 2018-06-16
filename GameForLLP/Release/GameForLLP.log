@@ -1,0 +1,29 @@
+﻿  GameForLLP.cpp
+c:\users\krajz\source\repos\gameforllp\gameforllp\gameforllp.cpp(34): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\krajz\source\repos\gameforllp\gameforllp\gameforllp.cpp(64): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\krajz\source\repos\gameforllp\gameforllp\gameforllp.cpp(68): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\krajz\source\repos\gameforllp\gameforllp\gameforllp.cpp(72): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\krajz\source\repos\gameforllp\gameforllp\gameforllp.cpp(76): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\krajz\source\repos\gameforllp\gameforllp\gameforllp.cpp(80): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\krajz\source\repos\gameforllp\gameforllp\gameforllp.cpp(84): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\krajz\source\repos\gameforllp\gameforllp\gameforllp.cpp(88): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\krajz\source\repos\gameforllp\gameforllp\gameforllp.cpp(110): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\krajz\source\repos\gameforllp\gameforllp\gameforllp.cpp(111): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\krajz\source\repos\gameforllp\gameforllp\gameforllp.cpp(112): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\krajz\source\repos\gameforllp\gameforllp\gameforllp.cpp(117): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\krajz\source\repos\gameforllp\gameforllp\gameforllp.cpp(120): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+c:\users\krajz\source\repos\gameforllp\gameforllp\gameforllp.cpp(195): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\krajz\source\repos\gameforllp\gameforllp\gameforllp.cpp(196): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\krajz\source\repos\gameforllp\gameforllp\gameforllp.cpp(285): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\krajz\source\repos\gameforllp\gameforllp\gameforllp.cpp(286): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\krajz\source\repos\gameforllp\gameforllp\gameforllp.cpp(287): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\krajz\source\repos\gameforllp\gameforllp\gameforllp.cpp(288): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\krajz\source\repos\gameforllp\gameforllp\gameforllp.cpp(388): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\krajz\source\repos\gameforllp\gameforllp\gameforllp.cpp(389): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\krajz\source\repos\gameforllp\gameforllp\gameforllp.cpp(401): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Trwa generowanie kodu
+  1 of 173 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  GameForLLP.vcxproj -> C:\Users\krajz\source\repos\GameForLLP\Release\GameForLLP.exe
