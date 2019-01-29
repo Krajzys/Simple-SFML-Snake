@@ -1,5 +1,6 @@
 # Simple-SFML-Snake
 My first game created with SFML and C++
+
 29.01.2019:
 -Added a Release branch without all the dev files
 For easy download and run just typein
